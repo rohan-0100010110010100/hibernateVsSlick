@@ -1,1 +1,3 @@
-# hibernateVsSlick
+# Hibernate V/ Slick
+
+
